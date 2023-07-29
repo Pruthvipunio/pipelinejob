@@ -1,0 +1,11 @@
+Pipeline {
+  agengt any;
+  stages {
+    satge ('BUILD') {
+      steps {
+        echo "This is Built stage"
+      } 
+    }
+  }
+
+}
